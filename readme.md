@@ -6,10 +6,10 @@ helpful when you read a lot of medium.com articles like me. simply click on exte
 
 ## Todo:
 
-[x] basic version
-[ ] support multiple predefined services
-[ ] allow user setting custom service/url
-[ ] testcases
-[ ] launch extension
+- [x] basic version
+- [ ] support multiple predefined services
+- [ ] allow user setting custom service/url
+- [ ] testcases
+- [ ] launch extension
 
 Note: this is unofficial extension, so enable developer options for chrome extensions and load/install jump12ft.crx file.
