@@ -1,0 +1,16 @@
+{
+    "name": "Jump 12ft Paywalls",
+    "version": "1.0.0",
+    "description": "will remove paywalls",
+    "manifest_version": 3,
+    "author": "Akash Patel",
+    "action": {
+        "default_popup": "redirect.html",
+        "default_title": "Jump12ft"
+    },
+    "permissions": [
+        "activeTab",
+        "clipboardWrite",
+        "tabs"
+    ]
+}
